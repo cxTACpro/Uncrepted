@@ -1,4 +1,5 @@
--- R2
+-- R2 github: https://github.com/cxTACpro/Uncrepted/blob/main/Recorder.lua
+-- v0
 repeat wait() until game:IsLoaded()
 local plr=game:GetService("Players").LocalPlayer
 local ReplicatedStorage=game:GetService("ReplicatedStorage")
